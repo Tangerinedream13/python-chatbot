@@ -36,12 +36,6 @@ Editable system prompt lets you tune the bot’s tone and behavior.
 	•	🖥️ GUI using Tkinter
 	•	🌐 Web interface using Flask
 
-python-chatbot/
-│
-├── chatbot.py         # Main chatbot application
-├── .env               # Stores your API key (NOT committed to GitHub)
-├── .gitignore         # Ensures .env and other files stay private
-└── requirements.txt   # (Optional) Python dependencies
 
 🛠️ Installation & Setup
 1. git clone https://github.com/tangerinedream13/python-chatbot.git
