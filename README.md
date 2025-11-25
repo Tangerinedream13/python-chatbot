@@ -27,9 +27,8 @@ Maintains the flow of conversation by storing previous messages.
 
 Editable system prompt lets you tune the bot’s tone and behavior.
 
-✔️ Easy to Extend
 
-Future planned features (coming soon!):
+
 	•	🎤 Voice input (speech-to-text)
 	•	🔊 Voice output (text-to-speech)
 	•	🖼️ Image generation using OpenAI API
