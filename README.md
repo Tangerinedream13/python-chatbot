@@ -3,7 +3,8 @@ A simple OpenAI powered chatbot built in Python
 
 Python Chatbot: Powered by OpenAI API
 
-A simple but expandable Python-based chatbot that uses OpenAI’s API 
+A simple but expandable Python-based chatbot that uses OpenAI’s API.
+
 This project was inspired by Eli Etherton’s “Intro to OpenAI API for Artificial Intelligence in Python” 
 and built as part of a CSCI 339 course project.
 
@@ -13,11 +14,11 @@ This chatbot supports:
 
 🚀 Features
 
-✔️ Conversational Chatbot
+Conversational Chatbot
 
 The bot responds naturally to user input using gpt-4o-mini.
 
-✔️ Session Memory
+Session Memory
 
 Maintains the flow of conversation by storing previous messages.
 
